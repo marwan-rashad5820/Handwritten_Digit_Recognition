@@ -85,5 +85,5 @@ Test Accuracy:      ~97.5%
 ## 🧪 Example Prediction
 ```bash
 Enter test sample index (0-9999): 531
-✅ Prediction: 7 | Actual: 7
+✅ Prediction: 4 | Actual: 4
 ```
